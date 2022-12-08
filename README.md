@@ -1,11 +1,11 @@
 # Content
 - [Description](#description)
-- [Architekture](#architekture)
+- [Architekture](#architecture)
 
 # Description
 Project that help monitoring the weather in Krakow using https://openweathermap.org/api.
 
-# Architekture
+# Architecture
 ![Architecture](architecture/GCP.png)
 
 - Cloud Function - fetchs data about weather using https://openweathermap.org/api, creates blob files and then uploads them to GCS bucket
