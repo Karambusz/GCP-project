@@ -1,6 +1,6 @@
 # Content
 - [Description](#description)
-- [Architekture](#architecture)
+- [Architecture](#architecture)
 
 # Description
 Project that help monitoring the weather in Krakow using https://openweathermap.org/api.
