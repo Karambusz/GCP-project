@@ -39,7 +39,7 @@ After completing all the steps above, your infrastructure will be ready to use
 
 After installing the infrastructure go to Navigation menu > Cloud Functions and click the weather-krakow function. Then open trigger tab and copy trigger URL. To get info about weather you sould pass additional query parameters to trigger URL: 
 
-- `{TRIGGER_URL}?date={YYYY.MM.DD}&time={HH.MM}
+- `{TRIGGER_URL}?date={YYYY.MM.DD}&time={HH.MM}`
 where MM in time are minutes that occur every 15 minutes and possible values are: **00, 15, 30, 45** 
 
 **Demo url** - https://us-central1-serene-voltage-371417.cloudfunctions.net/weather-krakow?date=21.12.2022&time=15:30
