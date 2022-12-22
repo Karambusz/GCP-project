@@ -42,6 +42,4 @@ After installing the infrastructure go to Navigation menu > Cloud Functions and 
 - `{TRIGGER_URL}?date={YYYY.MM.DD}&time={HH:MM}`
 where MM in time are minutes that occur every 15 minutes and possible values are: **00, 15, 30, 45** 
 
-**Demo url** - https://us-central1-serene-voltage-371417.cloudfunctions.net/weather-krakow?date=21.12.2022&time=15:30
-
 
